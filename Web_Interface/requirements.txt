@@ -26,4 +26,4 @@ transformers==4.44.2
 gdown
 torch_geometric==2.5.3
 pytorch_lightning==2.1.3
-tensorflow==2.15.0
+tensorflow==2.13.0
