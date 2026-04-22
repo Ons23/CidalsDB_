@@ -23,6 +23,6 @@ dgl==2.0.0
 setuptools==75.1.0
 transformers==4.44.2
 gdown
-tensorflow==2.9
-torch_geometric==2.5.3
+tensorflow
+torch_geometric==2.4.0
 pytorch_lightning==2.1.3
