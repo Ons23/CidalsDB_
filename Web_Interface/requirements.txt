@@ -1,4 +1,4 @@
--f https://data.dgl.ai/wheels/repo.html
+#-f https://data.dgl.ai/wheels/repo.html
 numpy==1.24.3 #1.22.3
 pandas==1.5.3
 PubChemPy==1.0.4
@@ -19,7 +19,7 @@ lxml==4.9.3 #upgrade lxml version
 dill==0.3.8
 deepchem==2.8.0 #2.7.1 
 dgllife==0.3.2
-dgl==2.0.0
+dgl==2.1.0
 setuptools==75.1.0
 transformers==4.44.2
 gdown
